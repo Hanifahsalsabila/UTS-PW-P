@@ -19,12 +19,8 @@ nav {
     justify-content: space-between;
     font-size: medium;
 }
-label.logo {
-    color: white;
-    font-size: 20px;
-    line-height: 50px;
-    padding: 0 100px;
-    font-weight: bold;
+nav div img {
+    width: 90px;
 }
 
 nav ul {
